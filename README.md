@@ -47,7 +47,7 @@ This repository is licensed under the MIT License. Materials may be used for edu
 - [IOAI Philippines Website](https://ioaiph.org/)
 - [IOAI Philippines GitHub Organization](https://github.com/ioaiph)
 - [IOAI Philippines Discord Server](https://discord.gg/pBktCwHNkJ)
-- [Ateneo BUILD]([https://build.ateneo.edu/](https://www.ateneo.edu/jgsom/build)) 
+- [Ateneo BUILD](https://www.ateneo.edu/jgsom/build) 
 
 ---
 
